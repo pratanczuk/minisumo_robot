@@ -36,7 +36,7 @@ A project for a Minisumo robot that complies with the official [Robothon Sumo Ro
     
     Skopiuj kod
     
-    `git clone https://github.com/yourusername/minisumo.git` 
+    `git clone https://github.com/pratanczuk/minisumo_robot.git` 
     
 2.  **Hardware Setup**:
     
